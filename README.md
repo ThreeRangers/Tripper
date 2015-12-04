@@ -1,5 +1,5 @@
 # Tripper
-Tripper makes managing travel plan never easier than before. Create plan in just few touches, invite friends and manage timelines at your fingertips. Never miss important event again.
+Tripper makes managing travel plan never easier than before. Create plan in just few touches, invite friends and manage timelines at your fingertips. Never miss important events again.
 
 ### Requirements
 
