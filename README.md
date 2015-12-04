@@ -1,4 +1,6 @@
 # Tripper
+Tripper makes managing travel plan never easier than before. Create plan in just few touches, invite friends and manage timelines at your fingertips. Never miss important event again.
+
 ### Requirements
 
   * [ ] User can create account, login and logout (user can use the app without login)
