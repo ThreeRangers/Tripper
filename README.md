@@ -2,28 +2,21 @@
 Tripper makes managing travel plan never easier than before. Create plan in just few touches, invite friends and manage timelines at your fingertips. Never miss important events again.
 
 ### Requirements
-
-  * [ ] User can create account, login and logout (user can use the app without login)
-  * [ ] User can create a trip with an negotiations plan form and share it with tripper user or social network (facebook, twitter, zalo ...)
-  * [ ] User has a profile with last trip and up coming trip
-  * [ ] A negotiation form must has these fields: Destination, Time, 
-  * [ ] The current signed in user will be persisted across restarts
-  * [ ] A trip can be share or keep private (default is share)
-  * [ ] A trip must has rating property 1 -5 *****
-  * [ ] A share trip has join-in status available or full
-  * [ ] Has a user pool view, with the list of user profile
-  * [ ] User pool view has a search bar for search with user name
-  * [ ] Pull request, check network status
+* [ ] User can view a list of suggested trips based on current location (with images and description)
+* [ ] User can view a trip details by tapping on a trip
+* [ ] User can accept to join, delay or cancel the trip at anytime
+* [ ] User can navigate through all the activities in the trip and decide to complete a particular activity
+* [ ] After completing an activity, user can choose either to check in (using Foursquare or Facebook) or to take pictures and share them on social groups such as Facebook or Instagram
+* [ ] User can view the weather condition of a certain location in an activity
+* [ ] User can search for a trip by name or by location
+* [ ] User can create account with basic information, login and logout (user can use the app without login)
+* [ ] Check network status
+* [ ] Initial data of trips will come from some freelance tourist guides or we can pay for professional agencies.
 
 ### Optionals
-* [ ] User can view the trip timeline from other users: 20 trips 1 page
-* [ ] In the trip time line, user can tap to a trip to show the detail information
+* [ ] User has profile with number of their places and number their rating, comments
+* [ ] In the user timeline, user can tap to an event to show the detail information
 * [ ] User can add a trip to Google calendar
-* [ ] A trip has notification property: reminder 3-2-1 days before the trip start for all tripper join-in.
-* [ ] Has notification when other user request join to your trip
-* [ ] Show map-view of a trip. These places in a trip must be add by google map for use this function
-* [ ] A share trip can be receive the feedback from other users by comment on the comment view. The comment view can be hide or show (default is hide)
-* [ ] In the trip timeline, user can search the trips with start date or destination
-* [ ] Follows the other users for receive notification when they has a new trip
-* [ ] A share trip has export property. A trip with many export has a high ranking
-* [ ] When create a new trip, user can export from the past trip.
+* [ ] Fiter place with category, distance, rating, cost
+* [ ] User can complete the activities by themselves or by hiring a local tourist guide for the best experience (money making opportunity)
+
